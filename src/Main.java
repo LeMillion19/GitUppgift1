@@ -5,5 +5,9 @@ public class Main{
         System.out.println("hej");
         }
 
+        public void getFirstClass{
+        System.out.println(FirstClass);
+    }
+
 }
 
